@@ -1,8 +1,8 @@
 ### Yeonji Portfolio ✨
 
 --------------------------------------------------------------------
-## 📕Education 1 - IT Private Educational Institute
->
+> ## 📕Education 1 - IT Private Educational Institute
+
  * Java 프레임웍기반 풀스택 양성
  * 2020.04.28 ~ 2021.01.05 (총 856시간)
  
