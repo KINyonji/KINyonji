@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Yonji_Portfolio&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Yonji_Portfolio&fontSize=70&animation=twinkling)
 
 
 ![](https://img.shields.io/badge/Java-DB3552?style=flat-square&logo=Java&logoColor=white)
