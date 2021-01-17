@@ -2,13 +2,15 @@
 
 
 ![](https://img.shields.io/badge/Java-DB3552?style=flat-square&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/oracle-DB3552?style=flat-square&logo=oracle&logoColor=white)
+
 ![](https://img.shields.io/badge/html-E96228?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![](https://img.shields.io/badge/oracle-DB3552?style=flat-square&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white")
+
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 
