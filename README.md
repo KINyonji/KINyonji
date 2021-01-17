@@ -14,6 +14,15 @@
 | Spring Framework | Maven Build, Dependency Injection, Autowire, DI Config, AOP. Sping MVC, request mapping, validation, Spring-jdbc, Transaction, Validation, MyBatis, Interceptor, REST, Secutiry, Junit |80h|
 | 아두이노 |                            -                            | 40h |
 
+## 📙Education 2 - Study Group
+ 
+ ```
+ ● Spring boot
+ ● Spring data JPA
+ ● IntelliJ
+ ● GitHub (GitDesktop)
+ ```
+
 <!--
 **KINyonji/KINyonji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
