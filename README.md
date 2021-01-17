@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white")
-![](https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white")
+![](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white")
 
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
