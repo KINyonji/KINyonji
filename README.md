@@ -4,6 +4,7 @@
 ## 📕Education 1 - IT Private Educational Institute
  * Java 프레임웍기반 풀스택 양
  * 2020.04.28 ~ 2021.01.05 (총 856시간)
+ 
 | Type  | Contents | Time  |
 |---|----------------------------------|---|
 | JAVA 프로그래밍  |기본문법, 객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream|120h|
