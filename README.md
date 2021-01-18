@@ -22,7 +22,7 @@
   
  | Type  | Contents | Time  |
  |---|----------------------------------|---|
- | JAVA 프로그래밍  |기본문법, 객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream|120h|
+ | JAVA 프로그래밍  |배열(array), 컬렉션(collection), 제어문(Control Statement), 동적 바인딩(Dynamic Binding), 예외처리 (Exception), 입출력 패키지(java.io),  lang패키지, 객체지향 프로그래밍(oop) , GUI 프로그래밍(Swing), text패키지, Thread, util패키지|120h|
  | Oracle 및 JDBC  | DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View, JDBC, 트랜잭션 처리 |40h|
  | 웹 프론트 엔드 |HTML5, CSS3, JavaScript, jQuery, 반응형웹, BootStrap, AJAX, JSON, XML, 각종 API|160h|
  | JSP 기반 웹 프로그래밍 |Servlet, JSP, JSTL, EL, 쿠키, 세션, 파일업로드, MVC model2 기반 웹 어플리케이션 구현, AJAX, API 서버 설계 및 구축, Jackson, COS 등 라이브러리 활용, CKEditor 연동, Tomcat 서버|120h|
